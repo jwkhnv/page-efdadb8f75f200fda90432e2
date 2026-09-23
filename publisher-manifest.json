@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "44c366e9260e9093fea4797e",
+  "owner": "jwkhnv",
+  "repo": "page-efdadb8f75f200fda90432e2",
+  "title": "Eruca",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "efdadb8f75f200fda90432e2",
+      "a": "Eruca",
+      "b": "稳定全球clash加速器",
+      "entity": "Eruca",
+      "brand": "Eruca",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "475d2075e27e8abce4d67ebb9f847222fb50d7f5ad915ceb014ff7cf07abde09",
+      "content": {
+        "primary_entity": "Eruca",
+        "keyword1": "Eruca",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，订阅配置更顺畅。",
+          "AI_CLIENTS_TITLE": "设备与客户端",
+          "AI_CLOSING_TEXT": "选好套餐与设备，开始配置订阅。",
+          "AI_CLOSING_TITLE": "Eruca 订阅即刻启程",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版、团队版三档方案，月付与年付可选，覆盖 3 到 20 台设备同时在线，流量从 100GB 到 1000GB 不等，适合日常浏览、流媒体与游戏加速等不同场景，按设备数量与流量需求挑选更省心。",
+          "AI_FEATURES_INTRO": "围绕套餐选择、设备需求与订阅周期展开。",
+          "AI_FEATURES_TITLE": "Eruca 使用特点",
+          "AI_FEATURE_TEXT_1": "基础版 3 台设备、旗舰版 5 台、团队版 20 台，按常用终端数匹配。",
+          "AI_FEATURE_TEXT_2": "月付适合尝鲜，年付方案折算后更划算，长期使用可优先考虑。",
+          "AI_FEATURE_TEXT_3": "旗舰版含 IPLC 专线游戏加速优化，团队版支持企业定制路由。",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TITLE_2": "订阅周期灵活",
+          "AI_FEATURE_TITLE_3": "场景化线路",
+          "AI_GUIDE_INTRO": "三步完成套餐选择与客户端配置。",
+          "AI_GUIDE_TITLE": "使用指南",
+          "AI_HERO_INTRO": "Eruca 专注稳定全球加速，提供多档套餐与多设备支持，从日常网页浏览到流媒体与游戏加速均有对应线路，订阅流程简洁，按设备数量与流量需求选择合适的方案即可开始使用。",
+          "AI_HERO_SUBTITLE": "稳定加速，覆盖多设备",
+          "AI_HIGHLIGHT_1": "三档套餐按需挑选",
+          "AI_HIGHLIGHT_2": "年付方案更省预算",
+          "AI_HIGHLIGHT_3": "多设备订阅同步使用",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量需求，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TEXT_2": "确认所选套餐支持的设备数量、流媒体解锁与游戏加速等适配要求。",
+          "AI_STEP_TEXT_3": "依照客户端文档导入订阅信息，在对应设备上完成配置并连接。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "Eruca 稳定全球加速",
+          "AI_FAQ_ANSWER_1": "基础版 ¥15/月，年付 ¥150；旗舰版 ¥35/月，年付 ¥350；团队版 ¥85/月，年付 ¥850。按年付相当于免去两个月费用，适合长期使用者。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台，旗舰版 5 台，团队版 20 台设备同时在线。设备数量按套餐递增，多人共享建议直接选团队版。",
+          "AI_FAQ_ANSWER_3": "基础版为普通线路节点池，旗舰版和团队版提供原生流媒体解锁；旗舰版额外有 IPLC 专线游戏加速优化，对延迟敏感的场景更合适。",
+          "AI_FAQ_ANSWER_4": "在订阅页复制订阅链接，打开对应客户端如 Clash、Shadowrocket 或 v2rayN，新增订阅并粘贴链接，更新节点后选择延迟较低的线路即可。",
+          "AI_FAQ_ANSWER_5": "套餐权益不同。团队版可开具企业定制路由，旗舰版和团队版有优先工单支持。如需升级，可在购买后联系支持调整，按剩余周期补差价。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Eruca 套餐价格和年付优惠是怎样的？",
+          "AI_FAQ_QUESTION_2": "不同套餐支持多少台设备同时在线？",
+          "AI_FAQ_QUESTION_3": "旗舰版的流媒体解锁和游戏加速与基础版有何区别？",
+          "AI_FAQ_QUESTION_4": "如何把 Eruca 订阅导入客户端？",
+          "AI_FAQ_QUESTION_5": "可以中途升级套餐吗？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--6cs8d274cjvx.com",
+    "host": "xn--6cs8d274cjvx.com"
+  },
+  "file_hashes": {
+    "index.html": "3694c252df4faf4be0545349a3ff1c0ad7d1f1a22454d0a8a58b43bb2368c317",
+    "sitemap.xml": "ce7d8325a33c7f8ebfad3d3fc3a0c50cbc83e09f41d606a3031c7c0a285e2b6d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "4cdc34cebb63919ab2084892f7f51e2616cddb769fb9ac87dd3f8f3a314722a6",
+    "robots.txt": "3d5e1dd18b1f4e65a55a4c1e0ff81b94e299f3c7a441d32438db37cf17358449",
+    "4a3b82171855b81acbd05ee18866fbfb.txt": "b2efbd1f694cdeee93d0cba5b12feee3ed9287e389a779cb4781e25187b25600"
+  },
+  "revision": "ed254f423d306edfd4f3b1107e8755f1a6d38626250e3fd17aa25f1400f9e1f2"
+}
